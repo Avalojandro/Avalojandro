@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://wallpapercave.com/wp/wp5249727.jpg"  />
+<img width="100%" height = "250px" src="https://wallpapercave.com/wp/wp5249727.jpg"  style="background-size: cover"/>
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
