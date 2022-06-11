@@ -4,8 +4,7 @@
 </div>
 
 # 💫About Me :
-🔭 I’m currently working at Elaniin Tech Company
-🐱 I'm the creator of Catto-CSS Library
+🔭 I'm a FrontEnd Developer based in El Salvador, I currently work at Elaniin Tech Company, I really enjoy playing video games, playing drums and spending time with my family.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avalojandro) 
