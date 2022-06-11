@@ -3,8 +3,8 @@
 <img width="100%" height = "100%" style="border-radius: 10px;" src="https://i.postimg.cc/KvtzNcSP/wmf4pf98d4l61.png" alt="cover" />
 </div>
 
-# 💫About Me :
-🔭 I'm a FrontEnd Developer based in El Salvador, I currently work at Elaniin Tech Company, I really enjoy playing video games, playing drums and spending time with my family.
+# 🔭 About Me :
+I'm a FrontEnd Developer based in El Salvador, I currently work at Elaniin Tech Company, I really enjoy playing video games, playing drums and spending time with my family.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avalojandro) 
