@@ -4,5 +4,5 @@
 </div>
 
 # :bulb: About Me :
-**Front-End Developer, gamer and drummer based in LATAM.**
+**Frontend Developer, gamer and drummer based in LATAM.**
   
